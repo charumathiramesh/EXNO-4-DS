@@ -4,11 +4,13 @@ To read the given data and perform Feature Scaling and Feature Selection process
 data to a file.
 
 # ALGORITHM:
+```
 STEP 1:Read the given Data.
 STEP 2:Clean the Data Set using Data Cleaning Process.
 STEP 3:Apply Feature Scaling for the feature in the data set.
 STEP 4:Apply Feature Selection for the feature in the data set.
 STEP 5:Save the data to the file.
+```
 
 # FEATURE SCALING:
 1. Standard Scaler: It is also called Z-score normalization. It calculates the z-score of each value and replaces the value with the calculated Z-score. The features are then rescaled with x̄ =0 and σ=1
@@ -68,5 +70,5 @@ The feature selection techniques used are:
 
       
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      Thus,given data and perform Feature Scaling and Feature Selection process and save the data to a file is performed successfully.
 
